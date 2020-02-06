@@ -1,3 +1,5 @@
 milk 
 eggs
 ice cream
+cake
+chese
